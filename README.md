@@ -17,8 +17,8 @@ The classic **Iris dataset** is used for training and evaluation.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/username/iris-classification.git
-   cd iris-classification
+   ggit clone https://github.com/ansh12639/iris-classification-project.git
+   cd iris-classification-project
    ```
 
 2. **Create a virtual environment (recommended)**
